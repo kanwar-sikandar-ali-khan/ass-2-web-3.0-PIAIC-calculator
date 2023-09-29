@@ -1,6 +1,7 @@
-<!-- first you need to install package by run this command -->
+ first you need to install package by run this command
 
  npm i cmd-calculator-typescript
 
- <!-- then use this  package by run this command -->
+ then use this  package by run this command
+ 
  npx calKanwarCmd 
